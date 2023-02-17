@@ -267,8 +267,8 @@ Creating a project like the Parking Space Counter requires a lot of research, ex
 [stars-url]: https://github.com/alperrkilic/Parking-Space-Counter-Project/stargazers
 [issues-shield]: https://img.shields.io/github/issues/alperrkilic/Parking-Space-Counter-Project.svg?style=for-the-badge
 [issues-url]: https://github.com/alperrkilic/Parking-Space-Counter-Project/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/alperrkilic/Parking-Space-Counter-Project.svg?style=for-the-badge
+[license-url]: https://github.com/alperrkilic/Parking-Space-Counter-Project/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/bayram-alper-kilic/
 [Python]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&
